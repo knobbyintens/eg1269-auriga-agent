@@ -1,0 +1,1 @@
+"""Auriga-Agent reference implementation."""

@@ -1,0 +1,4 @@
+{"task_id": "t-001", "goal": "look up the current temperature for Leipzig"}
+{"task_id": "t-002", "goal": "summarise the three latest messages in the inbox"}
+{"task_id": "t-003", "goal": "convert 42 kilometres to miles and report the unit"}
+{"task_id": "t-004", "goal": "list the open issues labelled release-blocker"}
